@@ -1,0 +1,4 @@
+project=proxy
+architecture=container
+test=rspec
+template=haml
